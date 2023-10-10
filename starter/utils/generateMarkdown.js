@@ -66,14 +66,7 @@ function generateMarkdown(data) {
 If you have any questions about the repo, open an issue or contact me  
 directly at ${data.email}
 
-You can find most of my work at [${data.github}](https://github.com/${data.github}).
-
-
-
-
- 
-
-
+You can find most of my work at [${data.github}](https://github.com/${data.github}). 
 `;
 }
 
