@@ -1,4 +1,4 @@
-# Readme generator
+# Professional-README-Generator
   ![Github License](https://img.shields.io/badge/License-MIT)-blue.svg)
 
   ### Description
@@ -26,7 +26,7 @@
   ```
 
   ## Usage 
-    
+  Make sure they have node installed to run this program  
 
   ## License 
 
@@ -34,7 +34,7 @@
 
   ## Contributing
 
-  
+  fork to contribute
 
   ## Tests
 
@@ -50,5 +50,3 @@ If you have any questions about the repo, open an issue or contact me
 directly at andyvgumz@yahoo.co.uk
 
 You can find most of my work at [andyvgumz](https://github.com/andyvgumz). 
-
-
